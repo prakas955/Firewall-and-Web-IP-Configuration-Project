@@ -3,8 +3,7 @@ This repository contains the configuration files, screenshots, and a detailed re
 
 # Repository Contents
 - Firewall_and_Web_IP_Configuration_Report.docx: A detailed report documenting the project's objectives, configurations, results, and conclusions.
-![Screenshot 2025-01-02 170615](https://github.com/user-attachments/assets/9db24c16-430e-43ca-a5f3-cb55240d4dba)
-
+<img src="https://github.com/user-attachments/assets/9db24c16-430e-43ca-a5f3-cb55240d4dba" alt="Screenshot 2025-01-02 170615" width="500" />
 
 # Project Overview
 This project involves:

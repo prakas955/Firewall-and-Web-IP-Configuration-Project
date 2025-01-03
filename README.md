@@ -3,23 +3,24 @@ This repository contains the configuration files, screenshots, and a detailed re
 
 # Repository Contents
 - Firewall_and_Web_IP_Configuration_Report.docx: A detailed report documenting the project's objectives, configurations, results, and conclusions.
+![Screenshot 2025-01-02 170615](https://github.com/user-attachments/assets/9db24c16-430e-43ca-a5f3-cb55240d4dba)
 
-Screenshots/: A folder containing labeled screenshots of the network setup, configurations, and test results.
+
 # Project Overview
 This project involves:
 
-# Setting up a DHCP Server:
+Setting up a DHCP Server:
 - Automates IP address assignment to network devices.
 
-# Configuring Devices:
+Configuring Devices:
 - Assigning IP addresses to PCs using DHCP.
 - Editing HTTP settings on the server.
 
-# Implementing Firewall Rules:
+Implementing Firewall Rules:
 - Denying ICMP (ping requests).
 - Allowing specific web IPs to access the server.
 
-# Testing the Configuration:
+Testing the Configuration:
 - Validating the firewall rules by testing denied and allowed traffic.
 
 # Objectives
